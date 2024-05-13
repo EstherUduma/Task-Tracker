@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "@headlessui/react": "^1.7.19",
-    "lucide-react": "^0.376.0"
+    "dotenv": "^16.4.5",
+    "lucide-react": "^0.376.0",
+    "mongoose": "^8.3.3"
   }
 }
