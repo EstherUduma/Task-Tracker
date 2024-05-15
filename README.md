@@ -22,19 +22,20 @@ To get a local copy up and running, follow these simple steps:
 2. Navigate to the project directory
 ```sh
 cd Task-Tracker
-
+```
 3. Install NPM packages
 ```sh
 npm install
-
+```
 4. Set up your environment variables in a .env.local file
-
-env
-Copy code
+```
 MONGODB_URI=your-mongodb-uri
 NEXTAUTH_URL=http://localhost:3000
-Run the development server
+```
+5. Run the development server
+```
 
+```
 sh
 Copy code
 npm run dev
