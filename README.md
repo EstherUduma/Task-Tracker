@@ -34,50 +34,32 @@ NEXTAUTH_URL=http://localhost:3000
 ```
 5. Run the development server
 ```
-
-```
-sh
-Copy code
 npm run dev
-Open http://localhost:3000 to view it in the browser.
+```
+6. Open http://localhost:3000 to view it in the browser.
 
-Usage
+<h2>Usage</h2>
 Once the application is up and running, you can:
+- Sign In: Create an account or sign in with existing credentials.
+- Add Tasks: Use the interface to add new tasks to your list.
+- View Tasks: See a list of all your tasks.
+- Update Tasks: Edit task details as needed.
+- Delete Tasks: Remove tasks that are no longer needed.
+- Landing Page: Access a welcoming landing page that introduces the app.
 
-Sign In: Create an account or sign in with existing credentials.
-Add Tasks: Use the interface to add new tasks to your list.
-View Tasks: See a list of all your tasks.
-Update Tasks: Edit task details as needed.
-Delete Tasks: Remove tasks that are no longer needed.
-Landing Page: Access a welcoming landing page that introduces the app.
-Contributing
+<h2>Contributing</h2>
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-Related Projects
+<h2>Related Projects</h2>
 Here are some related projects that might interest you:
+-Another Task Tracker
+-Todo App
+-Task Manager
 
-Another Task Tracker
-Todo App
-Task Manager
-Licensing
+<h2>Licensing</h2>
 Distributed under the MIT License. See LICENSE for more information.
-
-Resources
-What your code repository says about you
-Here’s an awesome list of READMEs
-sql
-Copy code
-
-### Notes:
-- Replace placeholder links with the actual URLs for your deployed site, blog article, LinkedIn profile, and screenshot.
-- Ensure that the `.env.local` file contains the correct environment variables for your MongoDB URI and any other required configuration.
-- Feel free to customize the "Related Projects" section with relevant links to other projects or repositories that you find useful or related to your Task Tracker.
-
-
-
-
