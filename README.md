@@ -39,26 +39,26 @@ npm run dev
 6. Open http://localhost:3000 to view it in the browser.
 
 <h2>Usage</h2>
-Once the application is up and running, you can:
-- Sign In: Create an account or sign in with existing credentials.
-- Add Tasks: Use the interface to add new tasks to your list.
-- View Tasks: See a list of all your tasks.
-- Update Tasks: Edit task details as needed.
-- Delete Tasks: Remove tasks that are no longer needed.
+Once the application is up and running, you can:<br>
+- Sign In: Create an account or sign in with existing credentials.<br>
+- Add Tasks: Use the interface to add new tasks to your list.<br>
+- View Tasks: See a list of all your tasks.<br>
+- Update Tasks: Edit task details as needed.<br>
+- Delete Tasks: Remove tasks that are no longer needed.<br>
 - Landing Page: Access a welcoming landing page that introduces the app.
 
 <h2>Contributing</h2>
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
-1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. Push to the Branch (git push origin feature/AmazingFeature)
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.<br>
+1. Fork the Project<br>
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)<br>
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')<br>
+4. Push to the Branch (git push origin feature/AmazingFeature)<br>
 5. Open a Pull Request
 
 <h2>Related Projects</h2>
 Here are some related projects that might interest you:
--Another Task Tracker
--Todo App
+-Another Task Tracker<br>
+-Todo App<br>
 -Task Manager
 
 <h2>Licensing</h2>
