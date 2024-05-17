@@ -4,7 +4,7 @@
 
 Task Tracker is a comprehensive task management application that allows users to sign in, manage their tasks, and keep track of their to-do lists efficiently. With features like task creation, viewing, updating, and deletion, Task Tracker is your go-to solution for organizing your daily tasks. The project is built using Next.js and React for the frontend, and MongoDB for the backend.
 
-[Final Project Blog Article](https://your-blog-article-link.com)
+[Final Project Blog Article](https://www.linkedin.com/pulse/task-tracker-alx-portfolio-project-esther-ann-uduma-37cff/?trackingId=dH2PD1SYS8CKAuQQHhLkwA%3D%3D)
 [Author's LinkedIn](https://www.linkedin.com/in/esther-uduma)
 
 <h2>Screenshot</h2>
